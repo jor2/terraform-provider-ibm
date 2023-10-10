@@ -36,7 +36,7 @@ resource "ibm_is_virtual_endpoint_gateway_ip" "example" {
 Review the argument references that you can specify for your resource. 
 
 - `gateway` - (Required, Forces new resource, String) The endpoint gateway ID.
-- `reserver_ip` - (Required, Forces new resource, String) The endpoint gateway IP ID.
+- `reserved_ip` - (Required, Forces new resource, String) The endpoint gateway IP ID.
 
 
 ## Attribute reference
